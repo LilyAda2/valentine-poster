@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+  
+}
+
+h1 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 3rem;
+  color: purple;
+  text-transform: uppercase;
+}
+
+.container {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 0px;
+  color: whitesmoke;
+  text-align: center;
+}
+
+.lily-img {
+  margin-top: 70px;
+  border: 5px dashed yellow;
+  height: 400px;
+  width: 100%;
+}
+
+.text {
+  font-family: "Caveat", serif;
+  font-size: x-large;
+  margin-bottom: 50px;
+}
+
+
+
+
